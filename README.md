@@ -7,11 +7,12 @@ Barcode Generator: https://play.google.com/store/apps/details?id=com.hawks.barco
 
 VX Player:
 
-  Playstore link: https://play.google.com/store/apps/details?id=com.hawks.vx_player
+Playstore link: https://play.google.com/store/apps/details?id=com.hawks.vx_player
 
-  Debug apk : https://github.com/varunram82786/apks/raw/refs/heads/main/VX_Player_debug.apk 
+Debug apk : https://github.com/varunram82786/apks/raw/refs/heads/main/VX_Player_debug.apk 
 
-  Release apk: https://github.com/varunram82786/apks/raw/refs/heads/main/VX_Player_release.apk
+Release apk: https://github.com/varunram82786/apks/raw/refs/heads/main/VX_Player_release.apk
+
 
 
 Traffic Survey: https://play.google.com/store/apps/details?id=com.hawks.trafficsurvey
