@@ -5,6 +5,7 @@ Charging Moniter: https://play.google.com/store/apps/details?id=com.eagle.chargi
 Barcode Generator: https://play.google.com/store/apps/details?id=com.hawks.barcodegenerator
 
 
+
 VX Player:
 
 Playstore link: https://play.google.com/store/apps/details?id=com.hawks.vx_player
@@ -12,6 +13,14 @@ Playstore link: https://play.google.com/store/apps/details?id=com.hawks.vx_playe
 Debug apk : https://github.com/varunram82786/apks/raw/refs/heads/main/VX_Player_debug.apk 
 
 Release apk: https://github.com/varunram82786/apks/raw/refs/heads/main/VX_Player_release.apk
+
+
+
+M_Vibe:
+
+Debug apk : https://github.com/varunram82786/apks/raw/refs/heads/main/M_Vibe_debug.apk 
+
+Release apk: https://github.com/varunram82786/apks/raw/refs/heads/main/M_Vibe_release.apk
 
 
 
